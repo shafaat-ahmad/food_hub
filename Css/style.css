@@ -101,6 +101,7 @@ nav input{
 }
 .card h2{
     margin-top: 12px;
+    text-align: center;
 }
 
 .card p{
@@ -108,7 +109,7 @@ nav input{
 }
 
 .card button{
-    margin-top: 25px;
+    margin-top: 50px;
     border: none;
     outline: none;
     background-color: rgb(255, 119, 0);
@@ -117,6 +118,7 @@ nav input{
     font-size: 22px;
     width: 140px;
     height: 38px;
+    margin: 50px;
 }
 
 .blog{
@@ -131,6 +133,7 @@ nav input{
 }
 .blog h2{
     margin-top: 12px;
+    text-align: center;
 }
 .blog p{
     margin-top: 12px;
@@ -144,6 +147,7 @@ nav input{
     color: white;
     font-size: 20px;
     border-radius: 2px;
+    margin: 70px;
 }
 .blog img{
     width: 100%;
